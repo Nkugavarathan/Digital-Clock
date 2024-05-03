@@ -1,0 +1,22 @@
+.container{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin-top: 300px;
+
+}
+body{
+    background: linear-gradient(to right,blue,rgb(25, 207, 195),rgb(238, 172, 148));
+}
+span{
+    font-size: 40px;
+    padding: 10px;
+    color: #fbfbfb;
+}
+#ampm{
+    font-size: 30px;
+}
+#wrapper{
+    border: 2px solid rgb(219, 81, 81);
+     
+}
